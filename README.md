@@ -7,7 +7,7 @@ It's a game based on the episode #97 of the show "Salut les Geeks" from Mathieu 
 
 ## Demo video
 
-[![snapshot video java game garbageattack](http://img.youtube.com/vi/kX43kyxURco/0.jpg)](http://youtu.be/kX43kyxURco)
+[http://youtu.be/kX43kyxURco](http://youtu.be/kX43kyxURco)
 
 ## How did you code it ?
-I used the Java language along with the (JSFML)[http://jsfml.org/] library, Java binding of the (SFML)[http://www.sfml-dev.org] library.
+I used the Java language along with the [JSFML](http://jsfml.org/) library, Java binding of the [SFML](http://www.sfml-dev.org) library.
